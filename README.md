@@ -47,6 +47,4 @@ However, with minor modifications, it can be deployed also on other systems.
 - see :movie_camera: in: https://www.youtube.com/watch?v=XE13QGR1czE&feature=youtu.be;
 - read our journal :scroll: untitled: Bubbles of Trust: a decentralized Blockchain-based authentication system for IoT.
 
-## Contact
-For any question please contact : hammi_mohamed_tahar@hotmail.fr  :+1:
 
